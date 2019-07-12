@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Mostrar Deudas"
+          android:id="@+id/Add"
+          android:titleCondensed="Mostrar Deudas"
+          app:showAsAction="ifRoom"
+    />
+    <item
+            android:id="@+id/Usuarios"
+            android:title="Agregar Nombres"
+            android:icon="@drawable/agregar"
+            app:showAsAction="always"
+
+    />
+    <item
+            android:id="@+id/Mostrar"
+            android:title="Deudas"
+    />
+    <item
+            android:id="@+id/Acerca"
+            android:title="Acerca de"/>
+</menu>

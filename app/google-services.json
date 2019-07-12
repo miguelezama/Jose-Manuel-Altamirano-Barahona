@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "633868462814",
+    "firebase_url": "https://te-debo.firebaseio.com",
+    "project_id": "te-debo",
+    "storage_bucket": "te-debo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633868462814:android:caec7c0967722ca8",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633868462814-5vsol97170jfo4sbvj7j5jc4e1qvcqul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectofinal",
+            "certificate_hash": "77b3042b312b1bea83e535e3f49899a6e1914d10"
+          }
+        },
+        {
+          "client_id": "633868462814-6hm051mgjdhal9l3q8nqghj2pi5a8nmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0VoymACn__4VuLgiAs0q9Xgcz4-4vdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633868462814-6hm051mgjdhal9l3q8nqghj2pi5a8nmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
